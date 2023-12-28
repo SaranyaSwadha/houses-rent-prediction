@@ -1,4 +1,4 @@
-# houses-rent-prediction
+# house-rent-prediction
 This dataset consists of various columns like :Posted On', 'BHK', 'Rent', 'Size', 'Floor', 'Area Type',
        'Area Locality', 'City', 'Furnishing Status', 'Tenant Preferred',
        'Bathroom', 'Point of Contact'
